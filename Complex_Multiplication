@@ -1,5 +1,10 @@
+<!DOCTYPE html>
 <html>
+<head>
+    <title>Animated WebP</title>
+</head>
 <body>
+    <h3>Complex Number Multiplication Animation</h3>
     <img src="Complex_Multiplication.webp" alt="Animated WebP" style="width:100%;">
 </body>
 </html>
